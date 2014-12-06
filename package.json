@@ -1,0 +1,19 @@
+{
+  "name": "lazyjs",
+  "version": "1.0.0",
+  "description": "Convenience methods to save key strokes",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "gulp": "^3.8.10",
+    "gulp-mocha": "^2.0.0",
+    "mocha": "^2.0.1",
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "greenify",
+  "license": "MIT"
+}
