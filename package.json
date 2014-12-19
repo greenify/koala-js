@@ -1,19 +1,23 @@
 {
-  "name": "lazyjs",
-  "version": "1.0.0",
+  "name": "koala-js",
+  "version": "1.0.1",
   "description": "Convenience methods to save key strokes",
   "main": "index.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
     "gulp-mocha": "^2.0.0",
-    "mocha": "^2.0.1",
+    "mocha": "^2.0.1"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -u qunit"
   },
+  "keywords": [
+    "lazy",
+    "convenience",
+    "koala"
+  ],
   "author": "greenify",
   "license": "MIT"
 }

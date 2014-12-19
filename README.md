@@ -1,16 +1,16 @@
-# lazyjs
+# koala-js
 
-[![NPM version](http://img.shields.io/npm/v/lazyjs.svg)](https://www.npmjs.org/package/lazyjs) 
-[![Build Status](https://secure.travis-ci.org/greenify/lazyjs.png?branch=master)](http://travis-ci.org/greenify/lazyjs) 
+[![NPM version](http://img.shields.io/npm/v/koala-js.svg)](https://www.npmjs.org/package/koala-js) 
+[![Build Status](https://secure.travis-ci.org/greenify/koala-js.png?branch=master)](http://travis-ci.org/greenify/koala-js) 
 
 I __HATE__ typing, so I use this convenience collection of methods that to save unnecessary key strokes. Feel free to use and improve.
 
 ## Getting Started
 
-Install the module with: `npm install lazyjs`
+Install the module with: `npm install koala-js`
 
 ```javascript
-var l = require('lazyjs');
+var l = require('koala-js');
 ```
 
 ### l.d || lazy.defaultValue(obj, defaultValue)
@@ -29,7 +29,10 @@ Just an alias for `document.createElement(name)`
 
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/greenify/lazyjs/issues).
+
+If you have any problem or suggestion please open an issue [here](https://github.com/greenify/koala-js/issues).
+
+## Support
 
 ## License 
 

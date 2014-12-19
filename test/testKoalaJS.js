@@ -6,7 +6,7 @@ var l = require("..");
 
 require("./mochaFix.js");
 
-suite("LazyJS");
+suite("Koala-JS");
 
 test("default values", function(){
   obj = {a: 42};
