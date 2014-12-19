@@ -2,18 +2,22 @@
 
 [![NPM version](http://img.shields.io/npm/v/koala-js.svg)](https://www.npmjs.org/package/koala-js) 
 [![Build Status](https://secure.travis-ci.org/greenify/koala-js.png?branch=master)](http://travis-ci.org/greenify/koala-js) 
+  
+<p align="center">
+<img alt="Koala image" src="http://i.imgur.com/qHQSS9Om.jpg" />
+</p>
 
-I __HATE__ typing, so I use this convenience collection of methods that to save unnecessary key strokes. Feel free to use and improve.
+A convenience collection of methods that to save unnecessary key strokes (for all the lazy coders out there). Feel free to use and improve.
 
 ## Getting Started
 
 Install the module with: `npm install koala-js`
 
 ```javascript
-var l = require('koala-js');
+var k = require('koala-js');
 ```
 
-### l.d || lazy.defaultValue(obj, defaultValue)
+### k.d || k.defaultValue(obj, defaultValue)
 
 Pass an alternative default value
 
@@ -23,9 +27,13 @@ var a = {};
 // returns 2
 ```
 
-### l.mk || makeElement(name)
+### k.mk || makeElement(name)
 
 Just an alias for `document.createElement(name)`
+
+### k.id 
+
+Just an alias for `document.getElementById(id)`
 
 
 ## Support
