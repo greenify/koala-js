@@ -1,12 +1,12 @@
 {
   "name": "koala-js",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "description": "Convenience methods to save key strokes",
   "main": "index.js",
   "dependencies": {},
-  "repository:": {
+  "repository": {
     "type": "git",
-    "url": "git@github.com/greenify/koala-js"
+    "url": "github.com/greenify/koala-js"
   },
   "devDependencies": {
     "chai": "^1.10.0",
